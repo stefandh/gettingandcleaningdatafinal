@@ -1,7 +1,6 @@
 # Code book for Getting and Cleaning Data course project
 
 The data set that this code book pertains to is located in the `tidy_data.txt` file of this repository.
-
 The structure of the data set is described in the [Data](#data) section and its variables are listed in the [Variables](#variables) section.
 
 ## Data <a name="data"></a>
